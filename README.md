@@ -346,16 +346,14 @@ For more examples, see [demo page](https://stepaudiollm.github.io/step-audio-edi
 ## Model Usage
 
 ### 🚀 Easy Installation (Recommended)
-For a simplified setup, you can use the provided installer. This will guide you through the process of setting up the environment and downloading the necessary models.
+We've made it easy to get started. Simply run the start script for your operating system.
 
-1. **Run the installer:**
-   ```bash
-   python install.py
-   ```
-2. **Launch the application:**
-   ```bash
-   python launcher.py
-   ```
+- **For Windows:** Double-click `start.bat`.
+- **For macOS & Linux:**
+  ```bash
+  ./start.sh
+  ```
+The first time you run the script, it will automatically install all the necessary dependencies and download the models. On subsequent runs, it will launch the application directly.
 
 ### 📜 Manual Installation
 #### Requirements
