@@ -353,7 +353,7 @@ We've made it easy to get started. Simply run the start script for your operatin
   ```bash
   ./start.sh
   ```
-The first time you run the script, it will automatically install all the necessary dependencies and download the models. On subsequent runs, it will launch the application directly.
+The first time you run the script, it will automatically install all the necessary dependencies and download the models. On subsequent runs, it will update the dependencies to the latest versions before launching the application.
 
 ### 📜 Manual Installation
 #### Requirements
